@@ -1,0 +1,18 @@
+/* 
+green: #278A5B
+purple:#E0B0FF
+ /* */
+body{
+    background-color: 	#E0B0FF;
+}
+/* nav,a{
+    color:#CC7DFF !important;
+    background-color: #E0B0FF !important;
+} */
+.jumbotron{
+    background: url("imgs/rose.jpg") no-repeat; 
+    background-position: 40%;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
